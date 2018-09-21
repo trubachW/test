@@ -1,0 +1,60 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/hello test/src/testClass.java" timestamp="1537546665053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+
+public class testClass {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufin1= new BufferedReader(new InputStreamReader(System.in));
+        int b = Integer.parseInt(bufin1.readLine());
+
+        System.out.println(b);
+
+    }
+}</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.IOException;
+
+public class testClass {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufin1= new BufferedReader(new InputStreamReader(System.in));
+        int b = Integer.parseInt(bufin1.readLine());
+
+        System.out.println(b);
+
+    }
+}</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
