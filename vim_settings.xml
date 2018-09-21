@@ -3,12 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1537554280779">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="41" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="18" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1537557864815">
+        <mark key="'" line="24" column="50" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="19" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537557367154">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hello test/src/testClass.java" timestamp="1537546665053">
         <mark key="[" line="0" column="0" />
@@ -24,27 +27,37 @@
       <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" />
       <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
       <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
+      <jump line="27" column="50" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGspOwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>это число больше &quot; + middle + &quot;y/n&quot;</text>
+        <text encoding="base64">IH19</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIv8g8+Pg5ODrIik7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">d2hpbGUgKGEgPD0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuLi5eTo8uUg9+jx6+4iKTsKICAgICAgICAgICAgYSA9IEludGVnZXIucGFyc2VJbnQoYnVmLnJlYWRMaW5lKCkpOwogICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGspOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgazsK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">d2hpbGUgKGEgPD0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuLi5eTo8uUg9+jx6+4iKTsKICAgICAgICAgICAgYSA9IEludGVnZXIucGFyc2VJbnQoYnVmLnJlYWRMaW5lKCkpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -60,7 +73,7 @@ public class testClass {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>это число больше &quot; + middle + &quot;y/n&quot;</text>
+        <text encoding="base64">IH19</text>
       </register>
     </registers>
     <search>
