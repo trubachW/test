@@ -3,10 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1537548878749">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1537550540593">
+        <mark key="'" line="10" column="26" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hello test/src/testClass.java" timestamp="1537546665053">
         <mark key="[" line="0" column="0" />
@@ -20,15 +19,19 @@
     </filemarks>
     <jumps>
       <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" />
+      <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
@@ -57,6 +60,16 @@ public class testClass {
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
