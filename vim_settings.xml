@@ -22,8 +22,10 @@
         <mark key="'" line="2" column="13" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1537779759102">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1537780604389">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -34,49 +36,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IH19</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIv8g8+Pg5ODrIik7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGspOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgazsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">d2hpbGUgKGEgPD0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuLi5eTo8uUg9+jx6+4iKTsKICAgICAgICAgICAgYSA9IEludGVnZXIucGFyc2VJbnQoYnVmLnJlYWRMaW5lKCkpOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.io.IOException;
-
-public class testClass {
-    public static void main(String[] args) throws IOException {
-        BufferedReader bufin1= new BufferedReader(new InputStreamReader(System.in));
-        int b = Integer.parseInt(bufin1.readLine());
-
-        System.out.println(b);
-
-    }
-}</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IH19</text>
+        <text>int</text>
       </register>
     </registers>
     <search>
