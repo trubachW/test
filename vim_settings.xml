@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1537557864815">
+      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" timestamp="1538056035128">
         <mark key="'" line="24" column="50" />
         <mark key="[" line="19" column="15" />
         <mark key="]" line="19" column="15" />
@@ -22,10 +22,10 @@
         <mark key="'" line="2" column="13" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1537991433204">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1538056198555">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -38,8 +38,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Scanner sc= new Scanner(System.in);</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
@@ -66,7 +66,7 @@
         <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>Scanner sc= new Scanner(System.in);</text>
       </register>
     </registers>
     <search>
