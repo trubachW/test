@@ -10,6 +10,12 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" timestamp="1538658553250">
+        <mark key="'" line="8" column="26" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="/Dummy.txt" timestamp="1538656279386">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,40 +39,42 @@
       <jump line="9" column="26" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
       <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
       <jump line="27" column="50" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
+      <jump line="8" column="26" filename="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKGk9PTAgJiYgZz09MSl7CiAgICAgICAgICAgICAgICAgICAgYTFbaV1bZ109J3onOwogICAgICAgICAgICAgICAgfWVsc2UgaWYgKGk9PTAgJiYgZz09NikgewogICAgICAgICAgICAgICAgICAgIGExW2ldW2ddPSd6JzsKICAgICAgICAgICAgICAgIH1lbHNlIHs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Scanner sc= new Scanner(System.in);</text>
+        <text>f++;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
+      <register name="2" type="4">
+        <text>int a,b,c,d,f,g,i;
+    Scanner scan=new Scanner(System.in);</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIv8g8+Pg5ODrIik7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGspOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgazsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">d2hpbGUgKGEgPD0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuLi5eTo8uUg9+jx6+4iKTsKICAgICAgICAgICAgYSA9IEludGVnZXIucGFyc2VJbnQoYnVmLnJlYWRMaW5lKCkpOwogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50IuLi5eTo8uUg9uXr7uUg9+jx6+4hISIpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLmlvLkJ1ZmZlcmVkUmVhZGVyOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247CgpwdWJsaWMgY2xhc3MgdGVzdENsYXNzIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnVmaW4xPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpOwogICAgICAgIGludCBiID0gSW50ZWdlci5wYXJzZUludChidWZpbjEucmVhZExpbmUoKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiKTsKCiAgICB9CnN9Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Scanner sc= new Scanner(System.in);</text>
+        <text>f++;</text>
       </register>
     </registers>
     <search>
