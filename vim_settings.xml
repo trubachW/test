@@ -10,13 +10,13 @@
         <mark key="^" line="40" column="16" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" timestamp="1538660007430">
-        <mark key="'" line="8" column="26" />
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" timestamp="1539192614709">
+        <mark key="'" line="27" column="15" />
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538661259960">
+      <file name="/Dummy.txt" timestamp="1539193260067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hello test/src/testClass.java" timestamp="1537546665053">
@@ -28,7 +28,7 @@
         <mark key="'" line="2" column="13" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/dz1.java" timestamp="1538661084048">
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/dz1.java" timestamp="1539191724342">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="12" />
         <mark key="." line="15" column="12" />
@@ -45,13 +45,14 @@
       <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
       <jump line="27" column="50" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Main.java" />
       <jump line="8" column="26" filename="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" />
+      <jump line="27" column="15" filename="$USER_HOME$/IdeaProjects/2111/src/module1/shaxmati.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaSsxKyIgIik7CiAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>System.out.print(i+1+&quot; &quot;);</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIl0iKTsKICAgICAgICB9</text>
@@ -79,7 +80,7 @@
         <text encoding="base64">ICAgICAgICAgICAgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.print(i+1+&quot; &quot;);</text>
+        <text />
       </register>
     </registers>
     <search>
