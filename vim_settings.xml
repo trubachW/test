@@ -16,7 +16,7 @@
         <mark key="]" line="27" column="17" />
         <mark key="." line="27" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539193260067">
+      <file name="/Dummy.txt" timestamp="1539635581464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hello test/src/testClass.java" timestamp="1537546665053">
@@ -38,8 +38,10 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/kruglyashi.java" timestamp="1539631563662">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/kruglyashi.java" timestamp="1539635576461">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -52,38 +54,41 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaSsxKyIgIik7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIl0iKTsKICAgICAgICB9</text>
+        <text>else if (f[h]==8){
+                    count1=count1+2;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBhOyBpKyspIHsKCiAgICAgICAgICAgIH0=</text>
+        <text>int b,i=0;
+        int[] cats = {6, 8, 9, 0};
+        int f[] = new int[10];</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">aWYgKGk9PTAgJiYgZz09MSl7CiAgICAgICAgICAgICAgICAgICAgYTFbaV1bZ109J3onOwogICAgICAgICAgICAgICAgfWVsc2UgaWYgKGk9PTAgJiYgZz09NikgewogICAgICAgICAgICAgICAgICAgIGExW2ldW2ddPSd6JzsKICAgICAgICAgICAgICAgIH1lbHNlIHs=</text>
+        <text encoding="base64">IGludFtdIGNhdHMgPSB7NiwgOCwgOSwgMH07CiAgICAgICAgaW50IFtdIGY7</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaSsxKyIgIik7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIl0iKTsKICAgICAgICB9</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBhOyBpKyspIHsKCiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">aWYgKGk9PTAgJiYgZz09MSl7CiAgICAgICAgICAgICAgICAgICAgYTFbaV1bZ109J3onOwogICAgICAgICAgICAgICAgfWVsc2UgaWYgKGk9PTAgJiYgZz09NikgewogICAgICAgICAgICAgICAgICAgIGExW2ldW2ddPSd6JzsKICAgICAgICAgICAgICAgIH1lbHNlIHs=</text>
+      </register>
+      <register name="9" type="4">
         <text>int a,b,c,d,f,g,i;
     Scanner scan=new Scanner(System.in);</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYz1zYy5uZXh0SW50KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGk9PTUpe1N5c3RlbS5vdXQucHJpbnRsbigi8uLu5SD36PHr7iIrbWlkZGxlKyJ5L24iKTsgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIv8g8+Pg5ODrIik7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgayA9IHNjYW4ubmV4dExpbmUoKTsK</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IFN5c3RlbS5lcnIucHJpbnQoZi5sZW5ndGgpOw==</text>
       </register>
     </registers>
     <search>
