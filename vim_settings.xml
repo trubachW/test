@@ -38,6 +38,9 @@
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/kruglyashi.java" timestamp="1539631563662">
+        <mark key="[" line="2" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="13" filename="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" />
