@@ -28,20 +28,20 @@
         <mark key="'" line="2" column="13" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/dz1.java" timestamp="1539191724342">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/dz1.java" timestamp="1541073361973">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1538056198555">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="10" column="8" />
         <mark key="." line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/kruglyashi.java" timestamp="1539635576461">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/kruglyashi.java" timestamp="1541072884310">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -54,41 +54,40 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICBpbnQgYT1zY2FuLm5leHRJbnQoKTsKCiAgICAgICAgZm9yIChpbnQgaT0xOyBpPGErMTsgaSsrKXsKICAgICAgICAgICAgaW50IGI9IGElaTsKICAgICAgICAgICAgaWYgKGI9PTApewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChpKyIgIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICAgICBpbnQgYT1zY2FuLm5leHRJbnQoKTsKCiAgICAgICAgZm9yIChpbnQgaT0xOyBpPGErMTsgaSsrKXsKICAgICAgICAgICAgaW50IGI9IGElaTsKICAgICAgICAgICAgaWYgKGI9PTApewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChpKyIgIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">Zm9yIChpbnQgZiA9IDE7IGYgPCBhZC5sZW5ndGg7IGYrKykgewogICAgICAgICAgICAgICAgICAgIGludCB0ZW1wPWFkW2ZdOwogICAgICAgICAgICAgICAgICAgIGFkW2ZdPWFkW2YtMV07CiAgICAgICAgICAgICAgICAgICAgYWRbZi0xXT10ZW1wOwoKICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aW50IG4gPSBpbi5uZXh0SW50KCksIG0gPSBpbi5uZXh0SW50KCksIGsgPSAwOwogICAgICAgIGludFtdW10gbWF0cml4ID0gbmV3IGludFtuXVttXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgewogICAgICAgICAgICBpZiAoaSAlIDIgPT0gMCkgewogICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICBtYXRyaXhbaV1bal0gPSBrOwogICAgICAgICAgICAgICAgICAgIGsrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSBtLTE7IGogPj0wOyBqLS0pIHsKICAgICAgICAgICAgICAgICAgICBtYXRyaXhbaV1bal0gPSBrOwogICAgICAgICAgICAgICAgICAgIGsrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8bSsxIDsgbCsrKSB7CiAgICAgICAgICAgIGZvciAoaW50IGcgPSAwOyBnIDwgbjsgZysrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KG1hdHJpeFtsXVtnXSsiICIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IGludCBjb3VudD0wOwogICAgICAgaW50IGNvdW50MSA9IDA7CiAgICAgICAgaW50IGE9c2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IHNhdmU9YTsKICAgICAgICB3aGlsZShhPjApewogICAgICAgICAgICBhLz0xMDsKICAgICAgICAgICAgY291bnQrKzsKICAgICAgICB9CiAgICAgICAgaW50IGIsaT0wOwogICAgICAgIGludFtdIGNhdHMgPSB7NiwgOSwgMCw4fTsKICAgICAgICBpbnQgZltdID0gbmV3IGludFtjb3VudF07CiAgICAgICAgd2hpbGUoc2F2ZT4wKXsKICAgICAgICAgICAgYj1zYXZlJTEwOwogICAgICAgICAgICBmW2ldPWI7CiAgICAgICAgICAgIGk9aSsxOwogICAgICAgICAgICBzYXZlLz0xMDsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaD0wOyBoPGYubGVuZ3RoOyBoKyspewogICAgICAgICAgICBmb3IgKGludCBqPTA7IGo8Y2F0cy5sZW5ndGg7IGorKyl7CiAgICAgICAgICAgICAgICBpZiAoZltoXT09Y2F0c1tqXSApewogICAgICAgICAgICAgICAgICAgIGlmIChmW2hdIT04KXsKICAgICAgICAgICAgICAgICAgICBjb3VudDErKzsKICAgICAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50MT1jb3VudDErMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgi6u7rLeLuIOrw8+Pr//jl6T0gIitjb3VudDEpOw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
+      </register>
+      <register name="6" type="4">
         <text>else if (f[h]==8){
                     count1=count1+2;</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>int b,i=0;
         int[] cats = {6, 8, 9, 0};
         int f[] = new int[10];</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGludFtdIGNhdHMgPSB7NiwgOCwgOSwgMH07CiAgICAgICAgaW50IFtdIGY7</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaSsxKyIgIik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaT0wOyBpPGE7IGkrKyl7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoIl0iKTsKICAgICAgICB9</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Zm9yIChpbnQgaSA9IDA7IGkgPCBhOyBpKyspIHsKCiAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">aWYgKGk9PTAgJiYgZz09MSl7CiAgICAgICAgICAgICAgICAgICAgYTFbaV1bZ109J3onOwogICAgICAgICAgICAgICAgfWVsc2UgaWYgKGk9PTAgJiYgZz09NikgewogICAgICAgICAgICAgICAgICAgIGExW2ldW2ddPSd6JzsKICAgICAgICAgICAgICAgIH1lbHNlIHs=</text>
-      </register>
-      <register name="9" type="4">
-        <text>int a,b,c,d,f,g,i;
-    Scanner scan=new Scanner(System.in);</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IFN5c3RlbS5lcnIucHJpbnQoZi5sZW5ndGgpOw==</text>
+        <text />
       </register>
     </registers>
     <search>
