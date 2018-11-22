@@ -24,6 +24,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/Triangle.java" timestamp="1542893442405">
+        <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/Main.java" timestamp="1542893413962">
+        <mark key="[" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Triangle/Triangle.java" timestamp="1542895208771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Cat/Cat.java" timestamp="1542897706532">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" timestamp="1537548685189">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="5" column="0" />
@@ -33,8 +47,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/Triangle.java" timestamp="1542893442405">
-        <mark key="[" line="0" column="22" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Cat/Main.java" timestamp="1542896974760">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Chisla.java" timestamp="1538056198555">
         <mark key="[" line="11" column="0" />
@@ -46,14 +62,8 @@
         <mark key="]" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/module1/Main.java" timestamp="1542893413962">
-        <mark key="[" line="14" column="30" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/Triangle/Main.java" timestamp="1542894090226">
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Triangle/Main.java" timestamp="1542895173382">
         <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/Triangle/Triangle.java" timestamp="1542894054555">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -66,39 +76,43 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">IHN0YXRpYyBpbnQgZ2NkVGhpbmcoaW50IGEsIGludCBiKSB7CiAgICAgICAgQmlnSW50ZWdlciBiMSA9IEJpZ0ludGVnZXIudmFsdWVPZihhKTsKICAgICAgICBCaWdJbnRlZ2VyIGIyID0gQmlnSW50ZWdlci52YWx1ZU9mKGIpOwogICAgICAgIEJpZ0ludGVnZXIgZ2NkID0gYjEuZ2NkKGIyKTsKICAgICAgICByZXR1cm4gZ2NkLmludFZhbHVlKCk7CiAgICB9</text>
+        <text>+
+                &quot;, B=&quot; + B +
+                &quot;, C=&quot; + C +
+                &quot;, p=&quot; + p +
+                &quot;, s=&quot; + s +
+                '}';</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Thing())</text>
+        <text>Cat</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IHN0YXRpYyBpbnQgZ2NkVGhpbmcoaW50IGEsIGludCBiKSB7CiAgICAgICAgQmlnSW50ZWdlciBiMSA9IEJpZ0ludGVnZXIudmFsdWVPZihhKTsKICAgICAgICBCaWdJbnRlZ2VyIGIyID0gQmlnSW50ZWdlci52YWx1ZU9mKGIpOwogICAgICAgIEJpZ0ludGVnZXIgZ2NkID0gYjEuZ2NkKGIyKTsKICAgICAgICByZXR1cm4gZ2NkLmludFZhbHVlKCk7CiAgICB9</text>
+      </register>
+      <register name="3" type="4">
         <text>BigInteger2=new BigInteger(in.next());
         BigInteger BigInteger3=new BigInteger(BigInteger2 + BigInteger);</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aW50IG49aW4ubmV4dEludCgpOwogICAgICAgICAgICBmb28obik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvdW50ZXIpOwogICAgfQogICAgc3RhdGljIGludCBmb28oaW50IG4pewogICAgICAgIGNvdW50ZXIrKzsKICAgICAgICByZXR1cm4gbiA8IDIgPyAxIDogZm9vKG4tMSkgKyBmb28obi0yKTsKICAgIH0=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICBpbnQgYT1zY2FuLm5leHRJbnQoKTsKCiAgICAgICAgZm9yIChpbnQgaT0xOyBpPGErMTsgaSsrKXsKICAgICAgICAgICAgaW50IGI9IGElaTsKICAgICAgICAgICAgaWYgKGI9PTApewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChpKyIgIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Zm9yIChpbnQgZiA9IDE7IGYgPCBhZC5sZW5ndGg7IGYrKykgewogICAgICAgICAgICAgICAgICAgIGludCB0ZW1wPWFkW2ZdOwogICAgICAgICAgICAgICAgICAgIGFkW2ZdPWFkW2YtMV07CiAgICAgICAgICAgICAgICAgICAgYWRbZi0xXT10ZW1wOwoKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">aW50IG4gPSBpbi5uZXh0SW50KCksIG0gPSBpbi5uZXh0SW50KCksIGsgPSAwOwogICAgICAgIGludFtdW10gbWF0cml4ID0gbmV3IGludFtuXVttXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgewogICAgICAgICAgICBpZiAoaSAlIDIgPT0gMCkgewogICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICBtYXRyaXhbaV1bal0gPSBrOwogICAgICAgICAgICAgICAgICAgIGsrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSBtLTE7IGogPj0wOyBqLS0pIHsKICAgICAgICAgICAgICAgICAgICBtYXRyaXhbaV1bal0gPSBrOwogICAgICAgICAgICAgICAgICAgIGsrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8bSsxIDsgbCsrKSB7CiAgICAgICAgICAgIGZvciAoaW50IGcgPSAwOyBnIDwgbjsgZysrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KG1hdHJpeFtsXVtnXSsiICIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGludCBjb3VudD0wOwogICAgICAgaW50IGNvdW50MSA9IDA7CiAgICAgICAgaW50IGE9c2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IHNhdmU9YTsKICAgICAgICB3aGlsZShhPjApewogICAgICAgICAgICBhLz0xMDsKICAgICAgICAgICAgY291bnQrKzsKICAgICAgICB9CiAgICAgICAgaW50IGIsaT0wOwogICAgICAgIGludFtdIGNhdHMgPSB7NiwgOSwgMCw4fTsKICAgICAgICBpbnQgZltdID0gbmV3IGludFtjb3VudF07CiAgICAgICAgd2hpbGUoc2F2ZT4wKXsKICAgICAgICAgICAgYj1zYXZlJTEwOwogICAgICAgICAgICBmW2ldPWI7CiAgICAgICAgICAgIGk9aSsxOwogICAgICAgICAgICBzYXZlLz0xMDsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaD0wOyBoPGYubGVuZ3RoOyBoKyspewogICAgICAgICAgICBmb3IgKGludCBqPTA7IGo8Y2F0cy5sZW5ndGg7IGorKyl7CiAgICAgICAgICAgICAgICBpZiAoZltoXT09Y2F0c1tqXSApewogICAgICAgICAgICAgICAgICAgIGlmIChmW2hdIT04KXsKICAgICAgICAgICAgICAgICAgICBjb3VudDErKzsKICAgICAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50MT1jb3VudDErMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgi6u7rLeLuIOrw8+Pr//jl6T0gIitjb3VudDEpOw==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text>else if (f[h]==8){
-                    count1=count1+2;</text>
-      </register>
       <register name="-" type="4">
-        <text>Thing())</text>
+        <text>Cat</text>
       </register>
     </registers>
     <search>
