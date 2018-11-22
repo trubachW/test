@@ -33,10 +33,10 @@
       <file name="$USER_HOME$/IdeaProjects/2111/src/Triangle/Triangle.java" timestamp="1542895208771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/Cat/Cat.java" timestamp="1542897706532">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Cat/Cat.java" timestamp="1542898801451">
+        <mark key="[" line="36" column="23" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" timestamp="1537548685189">
         <mark key="'" line="2" column="13" />
@@ -84,7 +84,7 @@
                 '}';</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Cat</text>
+        <text>int val</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">IHN0YXRpYyBpbnQgZ2NkVGhpbmcoaW50IGEsIGludCBiKSB7CiAgICAgICAgQmlnSW50ZWdlciBiMSA9IEJpZ0ludGVnZXIudmFsdWVPZihhKTsKICAgICAgICBCaWdJbnRlZ2VyIGIyID0gQmlnSW50ZWdlci52YWx1ZU9mKGIpOwogICAgICAgIEJpZ0ludGVnZXIgZ2NkID0gYjEuZ2NkKGIyKTsKICAgICAgICByZXR1cm4gZ2NkLmludFZhbHVlKCk7CiAgICB9</text>
@@ -112,7 +112,7 @@
         <text encoding="base64">Ly8gICAgICAgIGZvciAoaW50IGc9MDsgZzxmLmxlbmd0aDsgZysrKXsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGZbZ10rIiAiKTsKLy8gICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>Cat</text>
+        <text>int val</text>
       </register>
     </registers>
     <search>
