@@ -38,10 +38,10 @@
         <mark key="]" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2111/src/Dog.java" timestamp="1544210307371">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/2111/src/Dog.java" timestamp="1544211385875">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/src/Modele1/Float.java" timestamp="1537548685189">
         <mark key="'" line="2" column="13" />
@@ -84,7 +84,7 @@
         <text encoding="base64">IGlmIChmb29kPDEpewogICAgICAgICAgICByZXR1cm4gIuLg+CDq7vIg8+zl8CI7CiAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>return 100500;</text>
+        <text>if(flag==1) {</text>
       </register>
       <register name="2" type="4">
         <text>+
@@ -117,7 +117,7 @@
         <text encoding="base64">IGludCBjb3VudD0wOwogICAgICAgaW50IGNvdW50MSA9IDA7CiAgICAgICAgaW50IGE9c2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IHNhdmU9YTsKICAgICAgICB3aGlsZShhPjApewogICAgICAgICAgICBhLz0xMDsKICAgICAgICAgICAgY291bnQrKzsKICAgICAgICB9CiAgICAgICAgaW50IGIsaT0wOwogICAgICAgIGludFtdIGNhdHMgPSB7NiwgOSwgMCw4fTsKICAgICAgICBpbnQgZltdID0gbmV3IGludFtjb3VudF07CiAgICAgICAgd2hpbGUoc2F2ZT4wKXsKICAgICAgICAgICAgYj1zYXZlJTEwOwogICAgICAgICAgICBmW2ldPWI7CiAgICAgICAgICAgIGk9aSsxOwogICAgICAgICAgICBzYXZlLz0xMDsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaD0wOyBoPGYubGVuZ3RoOyBoKyspewogICAgICAgICAgICBmb3IgKGludCBqPTA7IGo8Y2F0cy5sZW5ndGg7IGorKyl7CiAgICAgICAgICAgICAgICBpZiAoZltoXT09Y2F0c1tqXSApewogICAgICAgICAgICAgICAgICAgIGlmIChmW2hdIT04KXsKICAgICAgICAgICAgICAgICAgICBjb3VudDErKzsKICAgICAgICAgICAgICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50MT1jb3VudDErMjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgi6u7rLeLuIOrw8+Pr//jl6T0gIitjb3VudDEpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>return 100500;</text>
+        <text>if(flag==1) {</text>
       </register>
     </registers>
     <search>
